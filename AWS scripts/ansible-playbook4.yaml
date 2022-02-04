@@ -28,7 +28,7 @@
         instance_type: t2.micro
         instance_ids: ["i-0c599ee5c1265127d", "i-01bb2b1296c33b365"]
         image: ami-08e4e35cccc6189f4
-        aws_access_key: "AKIAUVU2B7VCTU5YREZF"
-        aws_secret_key: "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"
+        aws_access_key: "Get_access_key_from_IAM"
+        aws_secret_key: "Get_secret_key_from_IAM"
         state: absent
         region: us-east-1
